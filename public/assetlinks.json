@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "fi.ticketless.app.twa",
+        "sha256_cert_fingerprints": ["39:A4:E0:0C:89:31:F2:F7:F1:8A:28:81:E6:07:87:0E:05:96:05:7E:DE:26:37:37:F3:06:ED:6A:0E:2F:8B:9B"]
+      }
+    }]
